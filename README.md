@@ -2,4 +2,4 @@
 
 <h2> My tech stack 📚 </h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhwa-Lee)](https://github.com/anuraghazra/github-readme-stats)
