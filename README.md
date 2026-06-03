@@ -9,8 +9,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a RPA Engineer from South Korea.<br/>
-  #### :fire: I aim to become a RPA Engineer.<br/>
+  #### :raising_hand: I am a Front-end Developer from South Korea.<br/>
+  #### :fire: I aim to become a Front-end Developer.<br/>
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Duksung Women University(DWU)
   <br/>
   <br/>
@@ -52,26 +52,4 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
   <br/>
-
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhwa94)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhwa94)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
-<!--
-**Juhwa94/Juhwa94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
