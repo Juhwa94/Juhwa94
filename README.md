@@ -16,7 +16,7 @@
   <br/>
   
   ## 🧱 Tech Stack
-<div align="center">
+<div align="left">
     <h4>Frontend</h4>
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -25,7 +25,7 @@
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 </div>
 
-<div align="center">
+<div align="left">
     <h4>Backend</h4>
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> 
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> 
@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
 </div>
 
-<div align="center">
+<div align="left">
     <h4>DB</h4>
     <img alt="Oracle" src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
