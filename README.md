@@ -9,8 +9,10 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Front-end Developer from South Korea.<br/>
-  #### :fire: I aim to become a Front-end Developer.<br/>
+  #### :raising_hand: I am Ju hwa Lee, a junior developer.<br/>  
+  #### :woman_technologist: Developers who are growing interested in discovering and improving user discomfort.<br/>  
+  #### :desktop_computer: I am interested in Java-based backend development and database design.<br/>
+  #### :fire: I have experience AWS environment, database interworking, and CRUD function implementation.<br/>
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Duksung Women University(DWU)
   <br/>
   <br/>
