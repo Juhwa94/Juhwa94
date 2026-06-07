@@ -47,6 +47,3 @@
     <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white"/>
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 </div>
-<br>
-<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juhwa94&show_icons=true&theme=tokyonight)
