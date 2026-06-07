@@ -48,3 +48,4 @@
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhwa94)
