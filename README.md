@@ -10,7 +10,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am Ju hwa Lee, a junior developer.<br/>  
-  #### :desktop_computer: I am interested in Java-based backend development and database design.<br/>
+  #### :desktop_computer: I am interested in frontend development, creating consistent UI components and improving user experience.<br/>
   #### :fire: I have experience AWS environment, database interworking, and CRUD function implementation.<br/>
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Duksung Women University(DWU)
   <br/>
