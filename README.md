@@ -9,7 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am Ju hwa Lee, a junior developer.<br/>  
+  #### :raising_hand: I am Ju hwa Lee, aspiring to be a developer.<br/>  
   #### :desktop_computer: I am interested in frontend development with React and TypeScript, focusing on user experience and clean UI.<br/>
   #### :fire: I have experience building responsive web interfaces, integrating REST APIs, and implementing CRUD functionality.<br/>
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Duksung Women University(DWU)
